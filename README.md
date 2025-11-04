@@ -20,6 +20,13 @@ I'm passionate about unraveling insights from data and exploring the world of ar
 
 ---
 
+### 🧰 Tech Stack
+💻 Python | FastAPI | React | Tailwind | SQL | Databricks | LangGraph  
+📊 Pandas | NumPy | scikit-learn | Prophet | ARIMA | Power BI  
+🔧 Git | GitHub | Azure | Streamlit | OpenAI API
+
+---
+
 ### 🌱 Always Learning
 
 Currently deepening my knowledge in:
@@ -36,7 +43,22 @@ Currently deepening my knowledge in:
 
 ---
 
-### 🌐 Connect with Me
+### ☕ A bit more
+🎬 Building the [**“Chuckles”** AI-themed short series](https://www.youtube.com/channel/UC_TExqwOhglZqxPTTSa7txw)  
+📚 Writing essays at [**Pattern Break**](https://dotcommon.substack.com/)  
+🏃‍♂️ Runner, traveller, lifelong learner
+
+---
+
+### 📈 GitHub Stats
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sukanto-m&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sukanto-m&layout=compact&theme=transparent&hide_border=true" />
+</p>
+
+---
+
+### 🌐 Let's Connect!
 
 - [X (Twitter)](https://x.com/fractalmind_)
 - [dev.to](https://dev.to/sukantom)
