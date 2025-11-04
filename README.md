@@ -31,15 +31,15 @@ Currently deepening my knowledge in:
 
 ### 🏆 Featured Project
 
-- **[Fibonacci of the Day](https://github.com/sukanto-m/fibonacci-of-the-day)**:  
-  A fun, algorithmic exploration of Fibonacci numbers, blending daily coding practice with mathematical curiosity.
+- **[Directory Monitor](https://github.com/sukanto-m/directory-monitor?tab=readme-ov-file#-directory-monitor)**:  
+  A fully local LLM-based solution to monitor your directories, and prevent them from getting messy.
 
 ---
 
 ### 🌐 Connect with Me
 
 - [X (Twitter)](https://x.com/fractalmind_)
-- [LinkedIn](https://www.linkedin.com/in/sukanto-m/)
+- [dev.to](https://dev.to/sukantom)
 
 ---
 
